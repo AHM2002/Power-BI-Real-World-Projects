@@ -1,0 +1,16 @@
+1. To identify trends and patterns in the unemployment rate over time, such as changes in the 
+overall rate, seasonal fluctuations, or long-term changes in specific industries or demographics.
+
+2. To compare the unemployment rate of the country to that of other countries or to global 
+averages, in order to gain insights into the country's economic performance.
+
+3. To identify potential causes of changes in the unemployment rate, such as changes in government
+policies, global economic trends, or technological disruptions.
+
+4. To identify areas where the government or other organizations could focus efforts to reduce 
+unemployment, such as providing training programs or incentives for companies to hire in specific
+ regions or industries.
+
+5. To communicate the insights and trends discovered in the data to stakeholders, such as 
+government officials, economists, or the general public, in a clear and compelling way using data 
+visualization techniques.
