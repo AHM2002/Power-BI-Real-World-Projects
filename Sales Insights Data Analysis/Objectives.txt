@@ -1,0 +1,7 @@
+1. Identify the top-selling products and analyze their sales trends over time.
+
+2. Visualize the sales performance of different sales representatives, regions, and departments.
+
+3. Identify the most profitable customers and analyze their buying behavior.
+
+4. Identify the peak sales season and plan inventory accordingly.
